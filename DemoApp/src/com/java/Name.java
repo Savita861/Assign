@@ -1,0 +1,12 @@
+
+/*write a program to print your name*/
+package com.java;
+
+public class Name {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello \nSavita Bethe!");
+	}
+
+}
